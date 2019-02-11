@@ -208,7 +208,7 @@ codigo,termo,tipo
 5173-30,Agente de segurança ferroviária,Sinônimo
 5173-15,Agente de segurança penitenciária,Ocupação
 5153-25,Agente de segurança socioeducativa,Sinônimo
-5112-05,Agente de serviços de fiscalização de transportes coletivos e licenciamento de veículos   Sinônimo
+5112-05,Agente de serviços de fiscalização de transportes coletivos e licenciamento de veículos,Sinônimo
 4221-05,Agente de tráfego,Sinônimo
 5172-20,Agente de trânsito,Ocupação
 3421-20,Agente de transporte,Sinônimo
@@ -364,7 +364,7 @@ codigo,termo,tipo
 7250-20,Ajustador limador de fresas,Sinônimo
 7250-20,Ajustador limador de tornos,Sinônimo
 7250-10,Ajustador mecânico,Ocupação
-7250-15,Ajustador mecânico (usinagem em bancada e em máquinas-ferramentas)   Ocupação
+7250-15,Ajustador mecânico (usinagem em bancada e em máquinas-ferramentas),Ocupação
 7250-10,Ajustador mecânico de ferramentas,Sinônimo
 7250-10,Ajustador mecânico de manutenção,Sinônimo
 7250-20,Ajustador mecânico em bancada,Ocupação
@@ -593,7 +593,7 @@ codigo,termo,tipo
 7165-20,Aplicador de sinteco e bona,Sinônimo
 7522-05,Aplicador serigráfico em vidros,Ocupação
 7157,APLICADORES DE MATERIAIS ISOLANTES,Família
-7165,APLICADORES DE REVESTIMENTOS CERÂMICOS; PASTILHAS; PEDRAS E MADEIRAS   Família
+7165,APLICADORES DE REVESTIMENTOS CERÂMICOS; PASTILHAS; PEDRAS E MADEIRAS,Família
 3772-45,Apontador (vôlei),Sinônimo
 7642-10,Apontador de bicos (calçados),Sinônimo
 4142-10,Apontador de campo,Sinônimo
@@ -757,7 +757,7 @@ codigo,termo,tipo
 2624-05,Artista plástico,Sinônimo
 2628,ARTISTAS DA DANÇA (EXCETO DANÇA TRADICIONAL E POPULAR),Família
 3762,ARTISTAS DE CIRCO (CIRCENSES),Família
-2624,ARTISTAS VISUAIS;DESENHISTAS INDUSTRIAIS E CONSERVADORES-RESTAURADORES DE BENS CULTURAISFamília
+2624,ARTISTAS VISUAIS;DESENHISTAS INDUSTRIAIS E CONSERVADORES-RESTAURADORES DE BENS CULTURAIS,Família
 5141-05,Ascensorista,Ocupação
 7152-05,Asfaltador,Sinônimo
 9922-25,Asfaltador na conservação de vias permanentes (exceto trilhos),Sinônimo
@@ -808,7 +808,7 @@ codigo,termo,tipo
 8181-05,Assistente de laboratório industrial,Ocupação
 3421-25,Assistente de logística de transporte,Sinônimo
 3517-15,Assistente de negócios de seguros,Sinônimo
-3732-05,Assistente de operações de equipamentos de produção para televisão e produtoras de vídeo   Sinônimo
+3732-05,Assistente de operações de equipamentos de produção para televisão e produtoras de vídeo,Sinônimo
 5151-15,Assistente de parto,Sinônimo
 2523-05,Assistente de presidência,Sinônimo
 5174-25,Assistente de prevenção de perdas,Sinônimo
@@ -828,7 +828,7 @@ codigo,termo,tipo
 3517-20,Assistente técnico de seguros,Ocupação
 3212-05,Assistente técnico em madeira,Sinônimo
 3212-10,Assistente técnico florestal,Sinônimo
-8202-05,Assistente técnico na fabricação de produtos de cerâmica; porcelanatos e afins   Sinônimo
+8202-05,Assistente técnico na fabricação de produtos de cerâmica; porcelanatos e afins,Sinônimo
 2523-15,Assistente trilíngüe,Sinônimo
 2516,ASSISTENTES SOCIAIS E ECONOMISTAS DOMÉSTICOS,Família
 7165-05,Assoalhador,Ocupação
@@ -1036,9 +1036,9 @@ codigo,termo,tipo
 4131-10,Auxiliar de escrituração fiscal,Sinônimo
 4110-35,Auxiliar de estatística,Ocupação
 3741-05,Auxiliar de estúdio,Sinônimo
-3732-05,Auxiliar de estúdio em operação de equipamentos de produção para televisão e produtoras de vídeo    Sinônimo
+3732-05,Auxiliar de estúdio em operação de equipamentos de produção para televisão e produtoras de vídeo,Sinônimo
 3421-05,Auxiliar de exportação e importação,Sinônimo
-3732-05,Auxiliar de externa em operações de equipamentos de produção para televisão e produtoras de vídeo   Sinônimo
+3732-05,Auxiliar de externa em operações de equipamentos de produção para televisão e produtoras de vídeo,Sinônimo
 8233-20,Auxiliar de fabricação nas indústrias de artefatos de cimento,Sinônimo
 5152-10,Auxiliar de farmácia de manipulação,Ocupação
 4131-15,Auxiliar de faturamento,Ocupação
@@ -1090,7 +1090,7 @@ codigo,termo,tipo
 7731-25,Auxiliar de operador de serra circular múltipla,Sinônimo
 2394-10,Auxiliar de orientação educacional,Sinônimo
 2394-15,Auxiliar de orientação pedagógica,Sinônimo
-2394-15,Auxiliar de orientação pedagógica em educação fundamental de primeira a quarta séries   Sinônimo
+2394-15,Auxiliar de orientação pedagógica em educação fundamental de primeira a quarta séries,Sinônimo
 5135-05,Auxiliar de padeiro,Sinônimo
 3222-30,Auxiliar de parteira,Sinônimo
 7170-20,Auxiliar de pedreiro,Sinônimo
@@ -1164,7 +1164,7 @@ codigo,termo,tipo
 9154-05,Auxiliar técnico na reparação de equipamentos fotográficos,Sinônimo
 2241-35,Auxiliar técnico- no futebol,Sinônimo
 2241-35,Auxiliar técnico- nos esportes,Sinônimo
-7614-30,Auxiliar-ajudante de operador de máquinas de lavar fibras; fios; tecidos e peças confeccionadas   Sinônimo
+7614-30,Auxiliar-ajudante de operador de máquinas de lavar fibras; fios; tecidos e peças confeccionadas,Sinônimo
 4131,AUXILIARES DE CONTABILIDADE,Família
 5152,AUXILIARES DE LABORATÓRIO DA SAÚDE,Família
 8412-10,Auxiliares de produção de refinação de sal,Sinônimo
@@ -1788,7 +1788,7 @@ codigo,termo,tipo
 8202-10,Chefe de produção na fabricação de produtos de vidro,Sinônimo
 4201-25,Chefe de recepção,Sinônimo
 3513-05,Chefe de recurso de glosa de contas de convênios (administração de hospital),Sinônimo
-3513-05,Chefe de recurso de glosas de contas nos hostpitais (administração de convênios e fonte pagadora)   Sinônimo
+3513-05,Chefe de recurso de glosas de contas nos hostpitais (administração de convênios e fonte pagadora),Sinônimo
 4101-05,Chefe de seção - no serviço público,Sinônimo
 7606-05,Chefe de seção de artes gráficas,Sinônimo
 4101-05,Chefe de seção de expedição,Sinônimo
@@ -1852,7 +1852,7 @@ codigo,termo,tipo
 2232-24,Cirurgião dentista - implantodontista,Ocupação
 2232-28,Cirurgião dentista - odontogeriatra,Ocupação
 2232-76,Cirurgião dentista - odontologia do trabalho,Ocupação
-2232-88,Cirurgião dentista - odontologia para pacientes com necessidades especiais   Ocupação
+2232-88,Cirurgião dentista - odontologia para pacientes com necessidades especiais,Ocupação
 2232-32,Cirurgião dentista - odontologista legal,Ocupação
 2232-36,Cirurgião dentista - odontopediatra,Ocupação
 2232-40,Cirurgião dentista - ortopedista e ortodontista,Ocupação
@@ -2260,7 +2260,7 @@ codigo,termo,tipo
 3426-10,Coordenador de operações portuárias,Sinônimo
 2394-15,Coordenador de orientação pedagógica,Sinônimo
 1411-10,Coordenador de produção de madeira,Sinônimo
-3732-10,Coordenador de programação em operação de equipamento de exibição em televisão   Sinônimo
+3732-10,Coordenador de programação em operação de equipamento de exibição em televisão,Sinônimo
 1427-05,Coordenador de projetos de manutenção,Sinônimo
 1311-20,Coordenador de projetos sociais,Sinônimo
 4201-25,Coordenador de recepção,Sinônimo
@@ -2597,7 +2597,7 @@ codigo,termo,tipo
 2424-05,Defensor público,Ocupação
 2424-05,Defensor público estadual,Sinônimo
 2424-05,Defensor público federal,Sinônimo
-2424,DEFENSORES PÚBLICOS E PROCURADORES DA ASSISTÊNCIA JUDICIÁRIA   Família
+2424,DEFENSORES PÚBLICOS E PROCURADORES DA ASSISTÊNCIA JUDICIÁRIA,Família
 8481-05,Defumador de carnes e pescados,Ocupação
 6322-05,Defumador de látex,Sinônimo
 8481-05,Defumador de pescados,Sinônimo
@@ -2756,7 +2756,7 @@ codigo,termo,tipo
 3181,DESENHISTAS TÉCNICOS DA CONSTRUÇÃO CIVIL E ARQUITETURA,Família
 3182,DESENHISTAS TÉCNICOS DA MECÂNICA,Família
 3184,DESENHISTAS TÉCNICOS DE PRODUTOS E SERVIÇOS DIVERSOS,Família
-3183,DESENHISTAS TÉCNICOS EM ELETRICIDADE; ELETRÔNICA; ELETROMECÂNICA; CALEFAÇÃO; VENTILAÇÃO E Família
+3183,DESENHISTAS TÉCNICOS EM ELETRICIDADE; ELETRÔNICA; ELETROMECÂNICA; CALEFAÇÃO; VENTILAÇÃO E,Família
 3180,DESENHISTAS TÉCNICOS; EM GERAL,Família
 6222-10,Desfibrador de agave,Sinônimo
 8414-32,Desidratador de alimentos,Ocupação
@@ -2892,7 +2892,7 @@ codigo,termo,tipo
 1311-20,Diretor de futebol,Sinônimo
 1226-10,Diretor de gestão portuária,Sinônimo
 3732-05,Diretor de imagens (estúdio de televisão),Sinônimo
-3732-05,Diretor de imagens externa na produção para televisão e produtoras de vídeo    Sinônimo
+3732-05,Diretor de imagens externa na produção para televisão e produtoras de vídeo,Sinônimo
 1236-05,Diretor de informática,Sinônimo
 1313-10,Diretor de instituição educacional pública,Ocupação
 1313-05,Diretor de internato privado,Sinônimo
@@ -2922,7 +2922,7 @@ codigo,termo,tipo
 1227-05,Diretor de plataforma em operações de intermediação financeira,Sinônimo
 2622-20,Diretor de produção,Sinônimo
 1223-05,Diretor de produção de obras pública e civil,Sinônimo
-1222-05,Diretor de produção e operações da indústria de transformação; extração mineral e utilidades   Ocupação
+1222-05,Diretor de produção e operações da indústria de transformação; extração mineral e utilidades,Ocupação
 1221-05,Diretor de produção e operações em empresa agropecuária,Ocupação
 1221-10,Diretor de produção e operações em empresa aqüícola,Ocupação
 1221-15,Diretor de produção e operações em empresa florestal,Ocupação
@@ -2983,14 +2983,14 @@ codigo,termo,tipo
 1227,DIRETORES DE OPERAÇÕES DE SERVIÇOS EM INSTITUIÇÃO DE INTERMEDIAÇÃO FINANCEIRA,Família
 1224,DIRETORES DE OPERAÇÕES EM EMPRESA DO COMÉRCIO,Família
 1237,DIRETORES DE PESQUISA E DESENVOLVIMENTO,Família
-1221,DIRETORES DE PRODUÇÃO E OPERAÇÕES EM EMPRESA AGROPECUÁRIA; PESQUEIRA ; AQÜÍCOLA E FLORESTAL
-1222,DIRETORES DE PRODUÇÃO E OPERAÇÕES EM EMPRESA DA INDÚSTRIA EXTRATIVA; TRANSFORMAÇÃO E DEFamília
+1221,DIRETORES DE PRODUÇÃO E OPERAÇÕES EM EMPRESA AGROPECUÁRIA; PESQUEIRA ; AQÜÍCOLA E FLORESTAL,Família
+1222,DIRETORES DE PRODUÇÃO E OPERAÇÕES EM EMPRESA DA INDÚSTRIA EXTRATIVA; TRANSFORMAÇÃO E DE,Família
 1232,DIRETORES DE RECURSOS HUMANOS E RELAÇÕES DE TRABALHO,Família
 1236,DIRETORES DE SERVIÇOS DE INFORMÁTICA,Família
 1225,DIRETORES DE SERVIÇOS DE TURISMO; DE ALOJAMENTO E DE ALIMENTAÇÃO,Família
 1234,DIRETORES DE SUPRIMENTOS E AFINS,Família
 1313,DIRETORES E GERENTES DE INSTITUIÇÃO DE SERVIÇOS EDUCACIONAIS,Família
-1311,DIRETORES E GERENTES DE OPERAÇÕES EM EMPRESA DE SERVIÇOS PESSOAIS; SOCIAIS E CULTURAIS   Família
+1311,DIRETORES E GERENTES DE OPERAÇÕES EM EMPRESA DE SERVIÇOS PESSOAIS; SOCIAIS E CULTURAIS,Família
 1312,DIRETORES E GERENTES DE OPERAÇÕES EM EMPRESAS E UNIDADES DE SAÚDE E AFINS,Família
 1210,DIRETORES GERAIS,Família
 1144-05,Dirigente de clube e associação esportiva,Sinônimo
@@ -3013,9 +3013,9 @@ codigo,termo,tipo
 1141,DIRIGENTES DE PARTIDOS POLÍTICOS,Família
 1130,DIRIGENTES DE POVOS INDÍGENAS; DE QUILOMBOLAS E CAIÇARAS,Família
 1114,DIRIGENTES DO SERVIÇO PÚBLICO,Família
-1142,DIRIGENTES E ADMINISTRADORES DE ENTIDADES PATRONAIS E DOS TRABALHADORES E DE OUTROS   Família
+1142,DIRIGENTES E ADMINISTRADORES DE ENTIDADES PATRONAIS E DOS TRABALHADORES E DE OUTROS,Família
 1143,DIRIGENTES E ADMINISTRADORES DE ENTIDADES RELIGIOSAS,Família
-1144,DIRIGENTES E ADMINISTRADORES DE ORGANIZAÇÕES DA SOCIEDADE CIVIL SEM FINS LUCRATIVOS   Família
+1144,DIRIGENTES E ADMINISTRADORES DE ORGANIZAÇÕES DA SOCIEDADE CIVIL SEM FINS LUCRATIVOS,Família
 1112,DIRIGENTES GERAIS DA ADMINISTRAÇÃO PÚBLICA,Família
 3741-45,Disc jóquei,Sinônimo
 2617-15,Disc-jockey (rádio),Sinônimo
@@ -3121,7 +3121,7 @@ codigo,termo,tipo
 7156-10,Eletricista de instalações (edifícios),Ocupação
 7156-15,Eletricista de instalações (iluminação a gás neon),Sinônimo
 7156-15,Eletricista de instalações (semáforos),Sinônimo
-9531-15,Eletricista de instalações (veículos automotores e máquinas operatrizes; exceto aeronaves e   Ocupação
+9531-15,Eletricista de instalações (veículos automotores e máquinas operatrizes; exceto aeronaves e,Ocupação
 7156-10,Eletricista de instalações comerciais e residenciais,Sinônimo
 7156-10,Eletricista de instalações de prédios,Sinônimo
 9531-15,Eletricista de instalações de veículos automotores,Sinônimo
@@ -3152,7 +3152,7 @@ codigo,termo,tipo
 3132-15,Eletrônico de rádio e televisão,Sinônimo
 3131-05,Eletrotécnico,Ocupação
 3131-10,Eletrotécnico (produção de energia),Ocupação
-3131-15,Eletrotécnico na fabricação; montagem e instalação de máquinas e equipamentos   Ocupação
+3131-15,Eletrotécnico na fabricação; montagem e instalação de máquinas e equipamentos,Ocupação
 9542-10,Eletrotécnico reparador de aparelhos de som,Sinônimo
 6220-15,Embalador de mudas,Sinônimo
 7841-05,Embalador; a mão,Ocupação
@@ -3178,7 +3178,7 @@ codigo,termo,tipo
 6220-20,Empreiteiro - na cultura,Sinônimo
 2621-05,Empresário de espetáculo; tecnólogo em produção cultural,Sinônimo
 6110-05,Empresário rural na agropecuária,Sinônimo
-7687,ENCADERNADORES E RECUPERADORES DE LIVROS (PEQUENOS LOTES OU A UNIDADE)   Família
+7687,ENCADERNADORES E RECUPERADORES DE LIVROS (PEQUENOS LOTES OU A UNIDADE),Família
 8281-10,Encaierador de tijolos,Sinônimo
 7841-05,Encaixotador; a mão,Sinônimo
 7241-10,Encanador,Ocupação
@@ -3239,7 +3239,7 @@ codigo,termo,tipo
 9109-10,Encarregado de lubrificação de vias permanentes,Sinônimo
 4152-10,Encarregado de malote,Sinônimo
 3131-15,Encarregado de manutenção,Sinônimo
-3134-15,Encarregado de manutenção de instrumentos de controle; medição e similares   Ocupação
+3134-15,Encarregado de manutenção de instrumentos de controle; medição e similares,Ocupação
 9502-05,Encarregado de manutenção elétrica de veículos,Ocupação
 9101-05,Encarregado de manutenção mecânica de sistemas operacionais,Ocupação
 8485-05,Encarregado de matadouro,Sinônimo
@@ -3266,7 +3266,7 @@ codigo,termo,tipo
 5173-30,Encarregado de portaria e segurança,Sinônimo
 8401-15,Encarregado de preparação de talo (indústria de fumo),Sinônimo
 7701-05,Encarregado de produção (indústria de madeira e mobiliário),Sinônimo
-8202-05,Encarregado de produção na fabricação de produtos de cerâmica; porcelanatos e afins   Sinônimo
+8202-05,Encarregado de produção na fabricação de produtos de cerâmica; porcelanatos e afins,Sinônimo
 8202-10,Encarregado de produção na fabricação de produtos de vidros,Sinônimo
 8101-10,Encarregado de produção química,Sinônimo
 4201-25,Encarregado de recepção,Sinônimo
@@ -3281,7 +3281,7 @@ codigo,termo,tipo
 4121-20,Encarregado de serviço de digitação,Sinônimo
 7832-20,Encarregado de serviço portuário,Sinônimo
 7832-20,Encarregado de serviços de cais,Sinônimo
-5199-40,Encarregado de serviços de leitura e verificação de consumo de energia elétrica; água e gás   Sinônimo
+5199-40,Encarregado de serviços de leitura e verificação de consumo de energia elétrica; água e gás,Sinônimo
 7701-05,Encarregado de serviços de serras e tornos,Sinônimo
 8102-05,Encarregado de setor de borracha,Sinônimo
 7102-20,Encarregado de setor de concreto,Sinônimo
@@ -3309,7 +3309,7 @@ codigo,termo,tipo
 7601-10,Encarregado geral de fiação,Sinônimo
 7201-25,Encarregado geral de fundição,Sinônimo
 7601-15,Encarregado geral de malharia,Sinônimo
-9922-05,Encarregado geral de operações de conservação de vias permanentes (exceto trilhos)   Ocupação
+9922-05,Encarregado geral de operações de conservação de vias permanentes (exceto trilhos),Ocupação
 7601-20,Encarregado geral de tecelagem,Sinônimo
 6201-10,Encarregado na agropecuária,Sinônimo
 6201-15,Encarregado na exploração de pecuária,Sinônimo
@@ -3519,7 +3519,7 @@ codigo,termo,tipo
 2145-10,Engenheiro químico (indústria química),Ocupação
 2145-30,Engenheiro químico (meio ambiente),Sinônimo
 2145-15,Engenheiro químico (metalurgia),Sinônimo
-2145-15,Engenheiro químico (mineração; metalurgia; siderurgia; cimenteira e cerâmica)   Ocupação
+2145-15,Engenheiro químico (mineração; metalurgia; siderurgia; cimenteira e cerâmica),Ocupação
 2145-20,Engenheiro químico (papel e celulose),Ocupação
 2145-20,Engenheiro químico (papel),Sinônimo
 2145-25,Engenheiro químico (petróleo e borracha),Ocupação
@@ -3673,8 +3673,8 @@ codigo,termo,tipo
 2032-25,Especialista em engenharia metalúrgica; de minas e de materiais,Sinônimo
 2032-30,Especialista em engenharia química,Sinônimo
 2012-15,Especialista em ensaios metrológicos,Ocupação
-3142-05,Especialista em ferramentas (técnico mecânico na fabricação de ferramentas)    Sinônimo
-3142-10,Especialista em ferramentas (técnico mecânico na manutenção de ferramentas)    Sinônimo
+3142-05,Especialista em ferramentas (técnico mecânico na fabricação de ferramentas),Sinônimo
+3142-10,Especialista em ferramentas (técnico mecânico na manutenção de ferramentas),Sinônimo
 2631-15,Especialista em história da tradição; doutrina e textos sagrados,Sinônimo
 2012-20,Especialista em instrumentação metrológica,Ocupação
 7313-05,Especialista em linha de transmissão,Sinônimo
@@ -3750,7 +3750,7 @@ codigo,termo,tipo
 6324,EXTRATIVISTAS FLORESTAIS DE ESPÉCIES PRODUTORAS DE ALIMENTOS SILVESTRES,Família
 6323,EXTRATIVISTAS FLORESTAIS DE ESPÉCIES PRODUTORAS DE FIBRAS; CERAS E ÓLEOS,Família
 6322,EXTRATIVISTAS FLORESTAIS DE ESPÉCIES PRODUTORAS DE GOMAS E RESINAS,Família
-6325,EXTRATIVISTAS FLORESTAIS DE ESPÉCIES PRODUTORAS DE SUBSTÂNCIAS AROMÁTICAS; MEDICINAIS E   Família
+6325,EXTRATIVISTAS FLORESTAIS DE ESPÉCIES PRODUTORAS DE SUBSTÂNCIAS AROMÁTICAS; MEDICINAIS E,Família
 6323-10,Extrator - na extração de babaçu,Sinônimo
 7121-20,Extrator de britagem,Sinônimo
 6322-05,Extrator de látex,Sinônimo
@@ -3811,7 +3811,7 @@ codigo,termo,tipo
 2234-15,Farmacêutico em citopatologia,Sinônimo
 2234-15,Farmacêutico em citoquímica,Sinônimo
 2234-20,Farmacêutico em controle de qualidade de alimentos,Sinônimo
-2234-35,Farmacêutico em controle de qualidade de insumos; medicamentos; cosméticos e produtos veterinários   Sinônimo
+2234-35,Farmacêutico em controle de qualidade de insumos; medicamentos; cosméticos e produtos veterinários,Sinônimo
 2234-30,Farmacêutico em controle de qualidade e tratamento de água,Sinônimo
 2234-30,Farmacêutico em controle de vetores e pragas urbanas,Sinônimo
 2234-05,Farmacêutico em cosmetologia,Sinônimo
@@ -4239,7 +4239,7 @@ codigo,termo,tipo
 1423-20,Gerente de área de vendas,Sinônimo
 1416-15,Gerente de armazém,Sinônimo
 2622-20,Gerente de arte teatral,Sinônimo
-1416-10,Gerente de assistência técnica nas operações de correios e telecomunicações   Sinônimo
+1416-10,Gerente de assistência técnica nas operações de correios e telecomunicações,Sinônimo
 1423-10,Gerente de assuntos corporativos,Sinônimo
 1414-15,Gerente de balconista,Sinônimo
 1415-15,Gerente de bar,Ocupação
@@ -4355,7 +4355,7 @@ codigo,termo,tipo
 1411-20,Gerente de produção e operações pesqueiras,Ocupação
 1411-10,Gerente de produção florestal,Sinônimo
 1411-15,Gerente de produção na agropecuária,Sinônimo
-8202-05,Gerente de produção na fabricação de produtos de cerâmica; porcelanatos e afins   Sinônimo
+8202-05,Gerente de produção na fabricação de produtos de cerâmica; porcelanatos e afins,Sinônimo
 8202-10,Gerente de produção na fabricação de produtos de vidro,Sinônimo
 1423-15,Gerente de produtos,Sinônimo
 1417-05,Gerente de produtos bancários,Ocupação
@@ -4431,12 +4431,12 @@ codigo,termo,tipo
 1427,GERENTES DE MANUTENÇÃO E AFINS,Família
 1413,GERENTES DE OBRAS EM EMPRESA DE CONSTRUÇÃO,Família
 1414,GERENTES DE OPERAÇÕES COMERCIAIS E DE ASSISTÊNCIA TÉCNICA,Família
-1416,GERENTES DE OPERAÇÕES DE SERVIÇOS EM EMPRESA DE TRANSPORTE; DE COMUNICAÇÃO E DE LOGÍSTICA
-1415,GERENTES DE OPERAÇÕES DE SERVIÇOS EM EMPRESA DE TURISMO; DE ALOJAMENTO E ALIMENTAÇÃO    Família
+1416,GERENTES DE OPERAÇÕES DE SERVIÇOS EM EMPRESA DE TRANSPORTE; DE COMUNICAÇÃO E DE LOGÍSTICA,Família
+1415,GERENTES DE OPERAÇÕES DE SERVIÇOS EM EMPRESA DE TURISMO; DE ALOJAMENTO E ALIMENTAÇÃO,Família
 1417,GERENTES DE OPERAÇÕES DE SERVIÇOS EM INSTITUIÇÃO DE INTERMEDIAÇÃO FINANCEIRA,Família
 1426,GERENTES DE PESQUISA E DESENVOLVIMENTO E AFINS,Família
-1411,GERENTES DE PRODUÇÃO E OPERAÇÕES EM EMPRESA AGROPECUÁRIA; PESQUEIRA; AQÜÍCOLA E FLORESTAL
-1412,GERENTES DE PRODUÇÃO E OPERAÇÕES EM EMPRESA DA INDÚSTRIA EXTRATIVA; DE TRANSFORMAÇÃO EFamília
+1411,GERENTES DE PRODUÇÃO E OPERAÇÕES EM EMPRESA AGROPECUÁRIA; PESQUEIRA; AQÜÍCOLA E FLORESTAL,Família
+1412,GERENTES DE PRODUÇÃO E OPERAÇÕES EM EMPRESA DA INDÚSTRIA EXTRATIVA; DE TRANSFORMAÇÃO E,Família
 1422,GERENTES DE RECURSOS HUMANOS E DE RELAÇÕES DO TRABALHO,Família
 1424,GERENTES DE SUPRIMENTOS E AFINS,Família
 1425,GERENTES DE TECNOLOGIA DA INFORMAÇÃO,Família
@@ -4712,7 +4712,7 @@ codigo,termo,tipo
 7157-10,Instalador de isolantes acústicos,Ocupação
 7157-15,Instalador de isolantes térmicos (refrigeração e climatização),Ocupação
 7157-20,Instalador de isolantes térmicos de caldeira e tubulações,Ocupação
-7321-20,Instalador de linhas elétricas de alta e baixa - tensão (rede aérea e subterrânea)   Ocupação
+7321-20,Instalador de linhas elétricas de alta e baixa - tensão (rede aérea e subterrânea),Ocupação
 7321-20,Instalador de linhas subterrâneas (transmissão de energia elétrica),Sinônimo
 7252-05,Instalador de máquinas,Sinônimo
 7252-25,Instalador de máquinas-ferramentas (usinagem de metais),Sinônimo
@@ -4745,9 +4745,9 @@ codigo,termo,tipo
 7321-30,Instalador-reparador de redes telefônicas e de comunicação de dados,Ocupação
 7257,INSTALADORES DE EQUIPAMENTOS DE REFRIGERAÇÃO E VENTILAÇÃO,Família
 9513,INSTALADORES E MANTENEDORES DE SISTEMAS ELETROELETRÔNICOS DE SEGURANÇA,Família
-9541,INSTALADORES E MANTENEDORES ELETROMECÂNICOS DE ELEVADORES; ESCADAS E PORTAS AUTOMÁTICAS
+9541,INSTALADORES E MANTENEDORES ELETROMECÂNICOS DE ELEVADORES; ESCADAS E PORTAS AUTOMÁTICAS,Família
 7313-20,Instaladores e reparadores de equipamentos e linhas telefônicas,Sinônimo
-7321,INSTALADORES E REPARADORES DE LINHAS E CABOS ELÉTRICOS; TELEFÔNICOS E DE COMUNICAÇÃO DE Família
+7321,INSTALADORES E REPARADORES DE LINHAS E CABOS ELÉTRICOS; TELEFÔNICOS E DE COMUNICAÇÃO DE,Família
 7313,INSTALADORES-REPARADORES DE LINHAS E EQUIPAMENTOS DE TELECOMUNICAÇÕES,Família
 3222-25,Instrumentador cirúrgico,Ocupação
 2235-20,Instrumentador cirúrgico (enfermeiro),Sinônimo
@@ -4950,7 +4950,7 @@ codigo,termo,tipo
 6228-05,Lavrador da cultura de especiarias,Sinônimo
 6220-20,Lavrador de cultura permanente - exclusive conta própria e empregador,Sinônimo
 6220-20,Lavrador de cultura temporária - exclusive conta própria e empregador,Sinônimo
-6220-20,Lavrador na horticultura e na floricultura - exclusive conta própria e empregador   Sinônimo
+6220-20,Lavrador na horticultura e na floricultura - exclusive conta própria e empregador,Sinônimo
 1111,LEGISLADORES,Família
 2251-06,Legista,Sinônimo
 3187-10,Leiautista de circuitos impressos,Sinônimo
@@ -5043,7 +5043,7 @@ codigo,termo,tipo
 2617-15,Locutor noticiarista,Sinônimo
 2617-20,Locutor publicitário de rádio e televisão,Ocupação
 2617-15,Locutor-operador,Sinônimo
-2617,LOCUTORES; COMENTARISTAS E REPÓRTERES DE RÁDIO E TELEVISÃO   Família
+2617,LOCUTORES; COMENTARISTAS E REPÓRTERES DE RÁDIO E TELEVISÃO,Família
 1414-10,Lojista (comércio varejista),Sinônimo
 8485-20,Lombador em matadouro,Sinônimo
 1412-05,Lombilheiro - empregador,Sinônimo
@@ -5308,7 +5308,7 @@ codigo,termo,tipo
 9193-10,Mecânico de manutenção de bicicletas,Sinônimo
 9193-10,Mecânico de manutenção de bicicletas e veículos similares,Ocupação
 9113-20,Mecânico de manutenção de bobinadeira (indústria têxtil),Sinônimo
-9111-05,Mecânico de manutenção de bomba injetora (exceto de veículos automotores)   Ocupação
+9111-05,Mecânico de manutenção de bomba injetora (exceto de veículos automotores),Ocupação
 9111-10,Mecânico de manutenção de bombas,Ocupação
 9111-10,Mecânico de manutenção de bombas centrífugas,Sinônimo
 9113-05,Mecânico de manutenção de bombas de refrigeração e hidráulicas,Sinônimo
@@ -5318,7 +5318,7 @@ codigo,termo,tipo
 9113-20,Mecânico de manutenção de cardas,Sinônimo
 9111-15,Mecânico de manutenção de compressores de ar,Ocupação
 9131-05,Mecânico de manutenção de empilhadeiras,Sinônimo
-9144-10,Mecânico de manutenção de empilhadeiras e outros veículos de cargas leves   Ocupação
+9144-10,Mecânico de manutenção de empilhadeiras e outros veículos de cargas leves,Ocupação
 9113-05,Mecânico de manutenção de equipamentos hidropneumáticos,Sinônimo
 9113-20,Mecânico de manutenção de espuladeira,Sinônimo
 9131-05,Mecânico de manutenção de guindaste,Sinônimo
@@ -5333,7 +5333,7 @@ codigo,termo,tipo
 9113-05,Mecânico de manutenção de máquina industrial,Sinônimo
 9131-15,Mecânico de manutenção de máquinas agrícolas,Ocupação
 9144-10,Mecânico de manutenção de máquinas agrícolas (tratores),Sinônimo
-9192-05,Mecânico de manutenção de máquinas cortadoras de grama; roçadeiras; motosserras e similares   Ocupação
+9192-05,Mecânico de manutenção de máquinas cortadoras de grama; roçadeiras; motosserras e similares,Ocupação
 9113-05,Mecânico de manutenção de máquinas de acondicionar,Sinônimo
 9131-20,Mecânico de manutenção de máquinas de construção civil,Sinônimo
 9131-20,Mecânico de manutenção de máquinas de construção e terraplenagem,Ocupação
@@ -5357,7 +5357,7 @@ codigo,termo,tipo
 9111-25,Mecânico de manutenção de redutores,Ocupação
 9112-05,Mecânico de manutenção de refrigerador,Sinônimo
 9192-05,Mecânico de manutenção de roçadeiras; motosserras e similares,Sinônimo
-9141-10,Mecânico de manutenção de sistema hidráulico de aeronaves (serviços de pista e hangar)   Ocupação
+9141-10,Mecânico de manutenção de sistema hidráulico de aeronaves (serviços de pista e hangar),Ocupação
 9113-20,Mecânico de manutenção de teares,Sinônimo
 9111-25,Mecânico de manutenção de transmissão,Sinônimo
 9144-20,Mecânico de manutenção de tratores,Ocupação
@@ -5435,7 +5435,7 @@ codigo,termo,tipo
 7411,MECÂNICOS DE INSTRUMENTOS DE PRECISÃO,Família
 9141,MECÂNICOS DE MANUTENÇÃO AERONÁUTICA,Família
 9193,MECÂNICOS DE MANUTENÇÃO DE BICICLETAS E EQUIPAMENTOS ESPORTIVOS E DE GINÁSTICA,Família
-9111,MECÂNICOS DE MANUTENÇÃO DE BOMBAS; MOTORES; COMPRESSORES E EQUIPAMENTOS DE TRANSMISSÃO
+9111,MECÂNICOS DE MANUTENÇÃO DE BOMBAS; MOTORES; COMPRESSORES E EQUIPAMENTOS DE TRANSMISSÃO,Família
 9113,MECÂNICOS DE MANUTENÇÃO DE MÁQUINAS INDUSTRIAIS,Família
 9131,MECÂNICOS DE MANUTENÇÃO DE MÁQUINAS PESADAS E EQUIPAMENTOS AGRÍCOLAS,Família
 9142,MECÂNICOS DE MANUTENÇÃO DE MOTORES E EQUIPAMENTOS NAVAIS,Família
@@ -5612,7 +5612,7 @@ codigo,termo,tipo
 8401-10,Mestre da indústria de bebidas,Sinônimo
 8401-15,Mestre da indústria de fumo,Sinônimo
 7301-05,Mestre da indústria de material elétrico e eletrônico,Sinônimo
-7502-05,Mestre da indústria de minerais não metálicos (exceto os derivados de petróleo e carvão)   Sinônimo
+7502-05,Mestre da indústria de minerais não metálicos (exceto os derivados de petróleo e carvão),Sinônimo
 8401-05,Mestre da indústria de produtos alimentícios,Sinônimo
 7606-05,Mestre das artes gráficas (indústria editorial e gráfica),Sinônimo
 7601-25,Mestre de acabamento de fios,Sinônimo
@@ -5702,7 +5702,7 @@ codigo,termo,tipo
 7601-25,Mestre de preparação de tear,Sinônimo
 7601-25,Mestre de preparação de tecelagem,Sinônimo
 7601-25,Mestre de preparação e revisão de bordados,Sinônimo
-7202-15,Mestre de produção (indústria de máquinas e outros equipamentos mecânicos)   Sinônimo
+7202-15,Mestre de produção (indústria de máquinas e outros equipamentos mecânicos),Sinônimo
 7606-05,Mestre de produção (indústria gráfica),Sinônimo
 7201-25,Mestre de produção de fundição de alumínio,Sinônimo
 8103-05,Mestre de produção farmacêutica,Ocupação
@@ -5790,7 +5790,7 @@ codigo,termo,tipo
 1113-15,Ministro do superior tribunal militar,Ocupação
 1113-10,Ministro do superior tribunal de justiça,Ocupação
 1113-05,Ministro do supremo tribunal federal,Ocupação
-2631,MINISTROS DE CULTO; MISSIONÁRIOS; TEÓLOGOS E PROFISSIONAIS ASSEMELHADOS   Família
+2631,MINISTROS DE CULTO; MISSIONÁRIOS; TEÓLOGOS E PROFISSIONAIS ASSEMELHADOS,Família
 2631-10,Missionário,Ocupação
 2631-10,Missionário leigo,Sinônimo
 2631-10,Missionário religioso,Sinônimo
@@ -5941,13 +5941,13 @@ codigo,termo,tipo
 7311-35,Montador de equipamentos elétricos,Ocupação
 7311-20,Montador de equipamentos elétricos (aparelhos eletrodomésticos),Ocupação
 7311-25,Montador de equipamentos elétricos (centrais elétricas),Ocupação
-7311-55,Montador de equipamentos elétricos (elevadores e equipamentos similares)   Ocupação
+7311-55,Montador de equipamentos elétricos (elevadores e equipamentos similares),Ocupação
 7311-15,Montador de equipamentos elétricos (instrumentos de medição),Ocupação
 7311-30,Montador de equipamentos elétricos (motores e dínamos),Ocupação
 7311-50,Montador de equipamentos eletrônicos,Ocupação
 7311-05,Montador de equipamentos eletrônicos (aparelhos médicos),Ocupação
 7311-10,Montador de equipamentos eletrônicos (computadores e equipamentos auxiliares),Ocupação
-7312-05,Montador de equipamentos eletrônicos (estação de rádio; tv e equipamentos de radar)   Ocupação
+7312-05,Montador de equipamentos eletrônicos (estação de rádio; tv e equipamentos de radar),Ocupação
 7311-40,Montador de equipamentos eletrônicos (instalações de sinalização),Ocupação
 7311-45,Montador de equipamentos eletrônicos (máquinas industriais),Ocupação
 7312-05,Montador de equipamentos eletrônicos (rádio e tv ),Sinônimo
@@ -6069,7 +6069,7 @@ codigo,termo,tipo
 7825-10,Motorista operador de caminhão-betoneira,Sinônimo
 7823-05,Motorista particular,Sinônimo
 7823-05,Motorista segurança,Sinônimo
-7824,MOTORISTAS DE ÔNIBUS URBANOS; METROPOLITANOS E RODOVIÁRIOS   Família
+7824,MOTORISTAS DE ÔNIBUS URBANOS; METROPOLITANOS E RODOVIÁRIOS,Família
 7825,MOTORISTAS DE VEÍCULOS DE CARGAS EM GERAL,Família
 7823,MOTORISTAS DE VEÍCULOS DE PEQUENO E MÉDIO PORTE,Família
 7826-20,Motorneiro,Ocupação
@@ -6091,7 +6091,7 @@ codigo,termo,tipo
 2627-10,Músico intérprete instrumentista popular,Sinônimo
 2626-15,Músico regente,Ocupação
 2626-20,Musicólogo,Ocupação
-2626,MÚSICOS COMPOSITORES; ARRANJADORES; REGENTES E MUSICÓLOGOS   Família
+2626,MÚSICOS COMPOSITORES; ARRANJADORES; REGENTES E MUSICÓLOGOS,Família
 2627,MÚSICOS INTÉRPRETES,Família
 2263-05,Musicoterapeuta,Ocupação
 2617-25,Narrador em programas de rádio e televisão,Ocupação
@@ -6253,7 +6253,7 @@ codigo,termo,tipo
 7154-05,Operador de betoneira,Ocupação
 7612-10,Operador de binadeira,Ocupação
 7612-15,Operador de bobinadeira,Ocupação
-8214-20,Operador de bobinadeira de tiras a quente; no acabamento de chapas e metais   Ocupação
+8214-20,Operador de bobinadeira de tiras a quente; no acabamento de chapas e metais,Ocupação
 2533-05,Operador de bolsa - pregão,Sinônimo
 2533-05,Operador de bolsa de mercadorias e futuros,Sinônimo
 8115-10,Operador de bomba (refinação de petróleo),Sinônimo
@@ -6343,7 +6343,7 @@ codigo,termo,tipo
 8212-45,Operador de conservação de canais,Sinônimo
 3731-05,Operador de console (rádio),Sinônimo
 8116-35,Operador de controle de produção de carboquímico,Sinônimo
-3732-05,Operador de controle geral de equipamentos na produção para televisão e produtora de vídeo   Sinônimo
+3732-05,Operador de controle geral de equipamentos na produção para televisão e produtora de vídeo,Sinônimo
 3732-10,Operador de controle mestre na exibição de televisão,Sinônimo
 8116-35,Operador de controle térmico,Sinônimo
 7663-20,Operador de corta-riscadeira de papel,Sinônimo
@@ -6441,7 +6441,7 @@ codigo,termo,tipo
 8116-25,Operador de exaustor (coqueria),Ocupação
 8113-10,Operador de exploração de petróleo,Ocupação
 3731-15,Operador de externa (rádio),Ocupação
-3732-05,Operador de externa em operação de equipamentos de produção para televisão e produtoras de vídeo   Sinônimo
+3732-05,Operador de externa em operação de equipamentos de produção para televisão e produtoras de vídeo,Sinônimo
 7113-15,Operador de extração (petróleo),Sinônimo
 8416-20,Operador de extração de café solúvel,Ocupação
 7663-10,Operador de extrusora (arte gráfica),Sinônimo
@@ -6478,7 +6478,7 @@ codigo,termo,tipo
 8112-05,Operador de forno de calcinação,Sinônimo
 8233-15,Operador de forno de cerâmica (materiais de construção),Sinônimo
 8221-25,Operador de forno de espera,Sinônimo
-8623-10,Operador de forno de incineração no tratamento de água; efluentes e resíduos industriais   Ocupação
+8623-10,Operador de forno de incineração no tratamento de água; efluentes e resíduos industriais,Ocupação
 8212-15,Operador de forno de indução elétrica,Sinônimo
 8232-20,Operador de forno de recozimento (vidro),Sinônimo
 8417-35,Operador de forno de secagem (malte),Sinônimo
@@ -6527,7 +6527,7 @@ codigo,termo,tipo
 3912-15,Operador de inspeção de qualidade,Ocupação
 8625-15,Operador de instalação de ar-condicionado,Ocupação
 7121-10,Operador de instalação de beneficiamento,Sinônimo
-8624-05,Operador de instalação de extração; processamento; envasamento e distribuição de gases   Ocupação
+8624-05,Operador de instalação de extração; processamento; envasamento e distribuição de gases,Ocupação
 8623-10,Operador de instalação de incineração de resíduos,Sinônimo
 8611-05,Operador de instalação de produção de energia elétrica,Sinônimo
 8625-05,Operador de instalação de refrigeração,Ocupação
@@ -6560,7 +6560,7 @@ codigo,termo,tipo
 7232-05,Operador de linha de decapagem,Sinônimo
 7311-75,Operador de linha de montagem (aparelhos elétricos),Ocupação
 7311-80,Operador de linha de montagem (aparelhos eletrônicos),Ocupação
-8421-35,Operador de linha de produção de preparação de matéria prima para produção de cigarros   Sinônimo
+8421-35,Operador de linha de produção de preparação de matéria prima para produção de cigarros,Sinônimo
 7733-20,Operador de lixadeira (usinagem de madeira),Ocupação
 7734-15,Operador de lixadeira na usinagem de madeira,Sinônimo
 7826-10,Operador de locomotiva,Sinônimo
@@ -6628,7 +6628,7 @@ codigo,termo,tipo
 7841-15,Operador de máquina de etiquetar,Ocupação
 7112-20,Operador de máquina de extração contínua (minas de carvão),Ocupação
 8118-15,Operador de máquina de fabricação de cosméticos,Ocupação
-8118-20,Operador de máquina de fabricação de produtos de higiene e limpeza (sabão; sabonete; detergente;   Ocupação
+8118-20,Operador de máquina de fabricação de produtos de higiene e limpeza (sabão; sabonete; detergente;,Ocupação
 8422-10,Operador de máquina de fabricar charutos e cigarrilhas,Ocupação
 8421-25,Operador de máquina de fabricar cigarros,Sinônimo
 8625-05,Operador de máquina de fabricar gelo,Sinônimo
@@ -6652,7 +6652,7 @@ codigo,termo,tipo
 8482-05,Operador de máquina de pasteurizar,Sinônimo
 7112-25,Operador de máquina de perfurar (minas e pedreiras),Sinônimo
 7233-30,Operador de máquina de pintar contínua,Sinônimo
-8421-35,Operador de máquina de preparação de matéria prima para produção de cigarros   Ocupação
+8421-35,Operador de máquina de preparação de matéria prima para produção de cigarros,Ocupação
 7734-15,Operador de máquina de produção na usinagem de madeira,Sinônimo
 8118-05,Operador de máquina de produtos farmacêuticos,Ocupação
 7841-15,Operador de máquina de rotular,Sinônimo
@@ -6712,7 +6712,7 @@ codigo,termo,tipo
 7735-10,Operador de máquinas de usinar madeira (cnc),Ocupação
 7623-25,Operador de máquinas do acabamento de couros e peles,Ocupação
 7821-20,Operador de máquinas e equipamentos rodoferroviários,Sinônimo
-9911-15,Operador de máquinas e veículos especiais na conservação de vias permanentes (trilhos)   Sinônimo
+9911-15,Operador de máquinas e veículos especiais na conservação de vias permanentes (trilhos),Sinônimo
 9911-15,Operador de máquinas especiais em conservação de via permanente (trilhos),Ocupação
 8621-50,Operador de máquinas fixas; em geral,Ocupação
 6420-05,Operador de máquinas florestais (colheitadeira),Sinônimo
@@ -6726,7 +6726,7 @@ codigo,termo,tipo
 3731-05,Operador de mesa (rádio),Sinônimo
 2533-05,Operador de mesa bolsa de valores,Sinônimo
 7244-40,Operador de mesa de corte (serralharia),Sinônimo
-3732-05,Operador de mesa de efeitos especiais na produção para televisão e produtoras de vídeo   Sinônimo
+3732-05,Operador de mesa de efeitos especiais na produção para televisão e produtoras de vídeo,Sinônimo
 7222-10,Operador de mesa de recebimento de lingotes,Sinônimo
 4222-05,Operador de mesa telefônica,Sinônimo
 8413-10,Operador de mexedeira na refinação de açúcar,Sinônimo
@@ -6826,7 +6826,7 @@ codigo,termo,tipo
 3424-10,Operador de programação (ferrovia),Sinônimo
 3743-05,Operador de projetor cinematográfico,Ocupação
 3743-05,Operador de projetor cinematográfico e áudio,Sinônimo
-8611-10,Operador de quadro de alimentação (subestação de distribuição de energia elétrica)   Sinônimo
+8611-10,Operador de quadro de alimentação (subestação de distribuição de energia elétrica),Sinônimo
 8611-10,Operador de quadro de distribuição de energia elétrica,Ocupação
 8482-10,Operador de queijeira,Sinônimo
 4222-20,Operador de rádio,Sinônimo
@@ -6863,7 +6863,7 @@ codigo,termo,tipo
 7813-05,Operador de rov,Sinônimo
 8417-30,Operador de sala de brassagem,Sinônimo
 7111-30,Operador de sala de controle - na mineração,Sinônimo
-8110-10,Operador de sala de controle de instalações químicas; petroquímicas e afins   Ocupação
+8110-10,Operador de sala de controle de instalações químicas; petroquímicas e afins,Ocupação
 8621-10,Operador de sala de máquinas (embarcações),Sinônimo
 7114-10,Operador de salina (sal marinho),Ocupação
 7112-40,Operador de schutthecar,Ocupação
@@ -6947,7 +6947,7 @@ codigo,termo,tipo
 3172-05,Operador de terminal no processamento de dados,Sinônimo
 8214-40,Operador de tesoura desbastadora; no acabamento chapas e metais,Sinônimo
 8214-40,Operador de tesoura elétrica; no acabamento de chapas e metais,Sinônimo
-8214-40,Operador de tesoura mecânica e máquina de corte; no acabamento de chapas e metais   Ocupação
+8214-40,Operador de tesoura mecânica e máquina de corte; no acabamento de chapas e metais,Ocupação
 8214-40,Operador de tesoura pendular; no acabamento de chapas e metais,Sinônimo
 8214-40,Operador de tesoura rotativa; no acabamento de chapas e metais,Sinônimo
 8214-40,Operador de tesoura sucata,Sinônimo
@@ -6991,7 +6991,7 @@ codigo,termo,tipo
 8611-05,Operador de turbinas de central elétrica,Sinônimo
 3548-10,Operador de turismo,Ocupação
 8421-10,Operador de umidificação,Sinônimo
-3732-05,Operador de unidade portátil de produção para televisão e produtora de vídeo    Sinônimo
+3732-05,Operador de unidade portátil de produção para televisão e produtora de vídeo,Sinônimo
 7613-57,Operador de urdideira,Ocupação
 7681-10,Operador de urdideira de tapetes,Sinônimo
 8611-05,Operador de usina hidrelétrica,Sinônimo
@@ -7002,7 +7002,7 @@ codigo,termo,tipo
 8611-15,Operador de usina termogás,Sinônimo
 8611-20,Operador de usina termonuclear,Sinônimo
 7212-20,Operador de usinagem convencional por abrasão,Ocupação
-8621-55,Operador de utilidade (produção e distribuição de vapor; gás; óleo; combustível; energia; oxigênio)   Ocupação
+8621-55,Operador de utilidade (produção e distribuição de vapor; gás; óleo; combustível; energia; oxigênio),Ocupação
 8115-05,Operador de utilidades (petróleo),Sinônimo
 8623-05,Operador de utilidades no tratamento de água e efluentes,Sinônimo
 7222-30,Operador de vazamento (lingotamento),Ocupação
@@ -7043,27 +7043,27 @@ codigo,termo,tipo
 7610-05,Operador polivalente da indústria têxtil,Ocupação
 3743-10,Operador-mantenedor de projetor cinematográfico,Ocupação
 7612,OPERADORES DA FIAÇÃO,Família
-8112,OPERADORES DE CALCINAÇÃO E DE TRATAMENTOS QUÍMICOS DE MATERIAIS RADIOATIVOS   Família
+8112,OPERADORES DE CALCINAÇÃO E DE TRATAMENTOS QUÍMICOS DE MATERIAIS RADIOATIVOS,Família
 8116,OPERADORES DE EQUIPAMENTOS DE COQUEIFICAÇÃO,Família
 8114,OPERADORES DE EQUIPAMENTOS DE DESTILAÇÃO; EVAPORAÇÃO E REAÇÃO,Família
 4121,OPERADORES DE EQUIPAMENTOS DE ENTRADA E TRANSMISSÃO DE DADOS,Família
-8232,OPERADORES DE EQUIPAMENTOS DE FABRICAÇÃO E BENEFICIAMENTO DE CRISTAIS; VIDROS; CERÂMICAS;Família
+8232,OPERADORES DE EQUIPAMENTOS DE FABRICAÇÃO E BENEFICIAMENTO DE CRISTAIS; VIDROS; CERÂMICAS;,Família
 8113,OPERADORES DE EQUIPAMENTOS DE FILTRAGEM E SEPARAÇÃO,Família
 8213,OPERADORES DE EQUIPAMENTOS DE LAMINAÇÃO,Família
-8111,OPERADORES DE EQUIPAMENTOS DE MOAGEM E MISTURA DE MATERIAIS (TRATAMENTOS QUÍMICOS E AFINS)
+8111,OPERADORES DE EQUIPAMENTOS DE MOAGEM E MISTURA DE MATERIAIS (TRATAMENTOS QUÍMICOS E AFINS),Família
 7822,OPERADORES DE EQUIPAMENTOS DE MOVIMENTAÇÃO DE CARGAS,Família
 8115,OPERADORES DE EQUIPAMENTOS DE PRODUÇÃO E REFINO DE PETRÓLEO E GÁS,Família
-8418,OPERADORES DE EQUIPAMENTOS NA FABRICAÇÃO DE PÃES; MASSAS ALIMENTÍCIAS; DOCES; CHOCOLATESFamília
+8418,OPERADORES DE EQUIPAMENTOS NA FABRICAÇÃO DE PÃES; MASSAS ALIMENTÍCIAS; DOCES; CHOCOLATES,Família
 8212,OPERADORES DE FORNOS DE PRIMEIRA FUSÃO E ACIARIA,Família
 8623,OPERADORES DE INSTALAÇÕES DE CAPTAÇÃO E ESGOTOS,Família
 8622,OPERADORES DE INSTALAÇÕES DE CAPTAÇÃO; TRATAMENTO E DISTRIBUIÇÃO DE ÁGUA,Família
 8612,OPERADORES DE INSTALAÇÕES DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA,Família
-8624,OPERADORES DE INSTALAÇÕES DE EXTRAÇÃO; PROCESSAMENTO; ENVASAMENTO E DISTRIBUIÇÃO DE GASES
-8611,OPERADORES DE INSTALAÇÕES DE GERAÇÃO E DISTRIBUIÇÃO DE ENERGIA ELÉTRICA; HIDRÁULICA; TÉRMICA
+8624,OPERADORES DE INSTALAÇÕES DE EXTRAÇÃO; PROCESSAMENTO; ENVASAMENTO E DISTRIBUIÇÃO DE GASES,Família
+8611,OPERADORES DE INSTALAÇÕES DE GERAÇÃO E DISTRIBUIÇÃO DE ENERGIA ELÉTRICA; HIDRÁULICA; TÉRMICA,Família
 8625,OPERADORES DE INSTALAÇÕES DE REFRIGERAÇÃO E AR-CONDICIONADO,Família
 8211,OPERADORES DE INSTALAÇÕES DE SINTERIZAÇÃO,Família
 8233,OPERADORES DE INSTALAÇÕES E EQUIPAMENTOS DE FABRICAÇÃO DE MATERIAIS DE CONSTRUÇÃO,Família
-8117,OPERADORES DE INSTALAÇÕES E MÁQUINAS DE PRODUTOS PLÁSTICOS; DE BORRACHA E MOLDADORES DE
+8117,OPERADORES DE INSTALAÇÕES E MÁQUINAS DE PRODUTOS PLÁSTICOS; DE BORRACHA E MOLDADORES DE,Família
 7734,OPERADORES DE MÁQUINA DE USINAR MADEIRA (PRODUÇÃO EM SÉRIE),Família
 8621,OPERADORES DE MÁQUINAS A VAPOR E UTILIDADES,Família
 7732,OPERADORES DE MÁQUINAS DE AGLOMERAÇÃO E PRENSAGEM DE CHAPAS,Família
@@ -7088,8 +7088,8 @@ codigo,termo,tipo
 7826,OPERADORES DE VEÍCULOS SOBRE TRILHOS E CABOS AÉREOS,Família
 7813,OPERADORES DE VEÍCULOS SUBAQUÁTICOS CONTROLADOS REMOTAMENTE,Família
 5211,OPERADORES DO COMÉRCIO EM LOJAS E MERCADOS,Família
-8231,OPERADORES NA PREPARAÇÃO DE MASSAS PARA ABRASIVO; VIDRO; CERÂMICA; PORCELANA E MATERIAISFamília
-8110,OPERADORES POLIVALENTES DE EQUIPAMENTOS EM INDÚSTRIAS QUÍMICAS; PETROQUÍMICAS E AFINS    Família
+8231,OPERADORES NA PREPARAÇÃO DE MASSAS PARA ABRASIVO; VIDRO; CERÂMICA; PORCELANA E MATERIAIS,Família
+8110,OPERADORES POLIVALENTES DE EQUIPAMENTOS EM INDÚSTRIAS QUÍMICAS; PETROQUÍMICAS E AFINS,Família
 3223-05,Óptico contatólogo,Sinônimo
 3223-05,Óptico oftálmico,Sinônimo
 3223-05,Óptico optometrista,Sinônimo
@@ -7408,7 +7408,7 @@ codigo,termo,tipo
 7233-25,Pintor por imersão,Ocupação
 7233-30,Pintor por pulverização (exceto veículos),Sinônimo
 7233-30,Pintor; a pistola (exceto obras e estruturas metálicas),Ocupação
-7166,PINTORES DE OBRAS E REVESTIDORES DE INTERIORES (REVESTIMENTOS FLEXÍVEIS)   Família
+7166,PINTORES DE OBRAS E REVESTIDORES DE INTERIORES (REVESTIMENTOS FLEXÍVEIS),Família
 5243-10,Pipoqueiro ambulante,Ocupação
 6311-05,Pirangueiro,Sinônimo
 5115-10,Pirangueiro de turismo de pesca,Sinônimo
@@ -7609,7 +7609,7 @@ codigo,termo,tipo
 3762-35,Prestidigitador,Sinônimo
 2631-05,Primaz,Sinônimo
 8601-05,Primeiro oficial de manutenção eletromecânica (utilidades),Sinônimo
-8601-15,Primeiro oficial de manutenção na geração; transmissão e distribuição de energia elétrica   Sinônimo
+8601-15,Primeiro oficial de manutenção na geração; transmissão e distribuição de energia elétrica,Sinônimo
 2152-10,Primeiro oficial de máquinas da marinha mercante,Ocupação
 2151-40,Primeiro oficial de náutica,Sinônimo
 2151-15,Primeiro oficial de náutica (comandante),Sinônimo
@@ -7758,7 +7758,7 @@ codigo,termo,tipo
 6130,PRODUTORES EM PECUÁRIA POLIVALENTE,Família
 6314-15,Proeiro,Ocupação
 3321-05,Professor assistente de regência de classe,Sinônimo
-2312-05,Professor da educação de jovens e adultos do ensino fundamental (primeira a quarta série)   Ocupação
+2312-05,Professor da educação de jovens e adultos do ensino fundamental (primeira a quarta série),Ocupação
 2331-05,Professor da área de meio ambiente,Ocupação
 2312-10,Professor das séries iniciais,Sinônimo
 2392-05,Professor de língua portuguesa na modalidade escrita (ensino especial),Sinônimo
@@ -7782,7 +7782,7 @@ codigo,termo,tipo
 2349-05,Professor de artes cênicas no ensino superior,Sinônimo
 2313-10,Professor de artes do ensino fundamental de de 5ª a 8ª série,Sinônimo
 2349-05,Professor de artes do espetáculo no ensino superior,Ocupação
-2313-10,Professor de artes na educação de jovens e adultos do ensino fundamental de 5ª a 8ª série   Sinônimo
+2313-10,Professor de artes na educação de jovens e adultos do ensino fundamental de 5ª a 8ª série,Sinônimo
 2321-05,Professor de artes no ensino médio,Ocupação
 2349-10,Professor de artes visuais no ensino superior (artes plásticas e multimídia),Ocupação
 2342-15,Professor de astronomia (ensino superior),Ocupação
@@ -7794,7 +7794,7 @@ codigo,termo,tipo
 2392-25,Professor de cegos,Sinônimo
 2347-20,Professor de ciência política do ensino superior,Ocupação
 2344-05,Professor de ciências biológicas do ensino superior,Ocupação
-2313-05,Professor de ciências na educação de jovens e adultos do ensino fundamental de 5ª a 8ª série   Sinônimo
+2313-05,Professor de ciências na educação de jovens e adultos do ensino fundamental de 5ª a 8ª série,Sinônimo
 2313-05,Professor de ciências naturais no ensino fundamental de 5ª a 8ª série,Sinônimo
 2349-05,Professor de circo no ensino superior,Sinônimo
 2344-35,Professor de clínica cirúrgica (ensino superior),Sinônimo
@@ -7822,7 +7822,7 @@ codigo,termo,tipo
 2348-05,Professor de economia internacional,Sinônimo
 2313-10,Professor de educação artística do ensino fundamental,Ocupação
 2313-15,Professor de educação física do ensino fundamental,Ocupação
-2313-15,Professor de educação física na educação de jovens e adultos do ensino fundamental de 5ª a 8ª série   Sinônimo
+2313-15,Professor de educação física na educação de jovens e adultos do ensino fundamental de 5ª a 8ª série,Sinônimo
 2321-20,Professor de educação física no ensino médio,Ocupação
 2344-10,Professor de educação física no ensino superior,Ocupação
 2344-15,Professor de enfermagem do ensino superior,Ocupação
@@ -7864,7 +7864,7 @@ codigo,termo,tipo
 2343-15,Professor de geofísica,Ocupação
 2313-20,Professor de geografia do ensino fundamental,Ocupação
 2347-40,Professor de geografia do ensino superior,Ocupação
-2313-20,Professor de geografia na educação de jovens e adultos do ensino fundamental de 5ª a 8ª série   Sinônimo
+2313-20,Professor de geografia na educação de jovens e adultos do ensino fundamental de 5ª a 8ª série,Sinônimo
 2321-35,Professor de geografia no ensino médio,Ocupação
 2343-20,Professor de geologia,Ocupação
 2348-10,Professor de gestão (administração),Sinônimo
@@ -7882,7 +7882,7 @@ codigo,termo,tipo
 2346-04,Professor de língua alemã,Ocupação
 2321-45,Professor de língua e literatura brasileira no ensino médio,Ocupação
 2346-20,Professor de língua espanhola,Ocupação
-2313-30,Professor de língua estrangeira moderna no ensino supletivo do ensino fundamental de 5ª a 8ª série   Sinônimo
+2313-30,Professor de língua estrangeira moderna no ensino supletivo do ensino fundamental de 5ª a 8ª série,Sinônimo
 2313-30,Professor de língua estrangeira moderna do ensino fundamental,Ocupação
 2321-50,Professor de língua estrangeira moderna no ensino médio,Ocupação
 2346-12,Professor de língua francesa,Ocupação
@@ -7912,7 +7912,7 @@ codigo,termo,tipo
 2348-10,Professor de matemática financeira (administração),Sinônimo
 2348-05,Professor de matemática financeira (economia),Sinônimo
 2341-05,Professor de matemática financeira (no ensino superior),Sinônimo
-2313-40,Professor de matemática na educação de jovens e adultos do ensino fundamental de 5ª a 8ª série   Sinônimo
+2313-40,Professor de matemática na educação de jovens e adultos do ensino fundamental de 5ª a 8ª série,Sinônimo
 2321-55,Professor de matemática no ensino médio,Ocupação
 2341-10,Professor de matemática pura (no ensino superior),Ocupação
 3311-05,Professor de maternal,Sinônimo
@@ -7925,7 +7925,7 @@ codigo,termo,tipo
 3311-05,Professor de nível médio na educação infantil,Ocupação
 3312-05,Professor de nível médio no ensino fundamental,Ocupação
 3313-05,Professor de nível médio no ensino profissionalizante,Ocupação
-2312-10,Professor de nível superior do ensino fundamental (primeira a quarta série)   Ocupação
+2312-10,Professor de nível superior do ensino fundamental (primeira a quarta série),Ocupação
 2311-05,Professor de nível superior na educação infantil (quatro a seis anos),Ocupação
 2311-10,Professor de nível superior na educação infantil (zero a três anos),Ocupação
 2344-45,Professor de nutrição,Ocupação
@@ -7994,7 +7994,7 @@ codigo,termo,tipo
 2345-15,Professor universitário na área de pesquisa educacional,Sinônimo
 2345-20,Professor universitário na área de prática de ensino,Sinônimo
 2332-10,Professor-instrutor de cursos de treinamento industrial,Sinônimo
-2343,PROFESSORES DE ARQUITETURA E URBANISMO; ENGENHARIA; GEOFÍSICA E GEOLOGIA DO ENSINO SUPERIOR
+2343,PROFESSORES DE ARQUITETURA E URBANISMO; ENGENHARIA; GEOFÍSICA E GEOLOGIA DO ENSINO SUPERIOR,Família
 2349,PROFESSORES DE ARTES DO ENSINO SUPERIOR,Família
 2344,PROFESSORES DE CIÊNCIAS BIOLÓGICAS E DA SAÚDE DO ENSINO SUPERIOR,Família
 2348,PROFESSORES DE CIÊNCIAS ECONÔMICAS; ADMINISTRATIVAS E CONTÁBEIS DO ENSINO SUPERIOR,Família
@@ -8028,7 +8028,7 @@ codigo,termo,tipo
 2263,PROFISSIONAIS DAS TERAPIAS CRIATIVAS;EQUOTERÁPICAS E NATUROLÓGICAS,Família
 2525,PROFISSIONAIS DE ADMINISTRAÇÃO ECÔNOMICO-FINANCEIRA,Família
 2532,PROFISSIONAIS DE COMERCIALIZACÃO E CONSULTORIA DE SERVIÇOS BANCÁRIOS,Família
-3524,PROFISSIONAIS DE DIREITOS AUTORAIS E DE AVALIACÃO DE PRODUTOS DOS MEIOS DE COMUNICAÇÃO   Família
+3524,PROFISSIONAIS DE DIREITOS AUTORAIS E DE AVALIACÃO DE PRODUTOS DOS MEIOS DE COMUNICAÇÃO,Família
 2112,PROFISSIONAIS DE ESTATÍSTICA,Família
 2531,PROFISSIONAIS DE PUBLICIDADE,Família
 2524,PROFISSIONAIS DE RECURSOS HUMANOS,Família
@@ -8606,7 +8606,7 @@ codigo,termo,tipo
 7170-20,Servente de pedreiro,Sinônimo
 9922-25,Servente de pedreiro na conservação de vias permanentes (exceto trilhos),Sinônimo
 6321-25,Servente de reflorestamento,Sinônimo
-9922-25,Servente de serviços gerais na conservação de vias permanentes (exceto trilhos)   Sinônimo
+9922-25,Servente de serviços gerais na conservação de vias permanentes (exceto trilhos),Sinônimo
 3514,SERVENTUÁRIOS DA JUSTIÇA E AFINS,Família
 6233-25,Sexador,Ocupação
 6233-25,Sexador de pintos,Sinônimo
@@ -8859,7 +8859,7 @@ codigo,termo,tipo
 8201-10,Supervisor de lingotamento,Sinônimo
 8201-25,Supervisor de linhas de acabamento,Sinônimo
 9101-10,Supervisor de manutenção de aparelhos térmicos; de climatização e de refrigeração,Ocupação
-9101-15,Supervisor de manutenção de bombas; motores; compressores e equipamentos de transmissão   Ocupação
+9101-15,Supervisor de manutenção de bombas; motores; compressores e equipamentos de transmissão,Ocupação
 3131-15,Supervisor de manutenção de máquinas e equipamentos,Sinônimo
 9101-20,Supervisor de manutenção de máquinas gráficas,Ocupação
 9101-25,Supervisor de manutenção de máquinas industriais têxteis,Ocupação
@@ -8885,7 +8885,7 @@ codigo,termo,tipo
 7301-05,Supervisor de montagem e instalação eletroeletrônica,Ocupação
 5101-05,Supervisor de movimento de trens,Sinônimo
 8101-05,Supervisor de operação (indústria petroquímica e carboquímica),Sinônimo
-8601-10,Supervisor de operação de fluidos (distribuição; captação; tratamento de água; gases; vapor)   Ocupação
+8601-10,Supervisor de operação de fluidos (distribuição; captação; tratamento de água; gases; vapor),Ocupação
 8601-15,Supervisor de operação elétrica (geração; transmissão e distribuição de energia elétrica),Ocupação
 3732-20,Supervisor de operações de sistemas de televisão e produtoras de vídeo,Sinônimo
 3912-05,Supervisor de operações na área de controle de produção,Sinônimo
@@ -8910,7 +8910,7 @@ codigo,termo,tipo
 8103-05,Supervisor de produção de semi-sólidos (produção farmacêutica),Sinônimo
 8103-05,Supervisor de produção de sólidos (produção farmacêutica),Sinônimo
 7101-20,Supervisor de produção e lavra (mineração),Sinônimo
-8202-05,Supervisor de produção na fabricação de produtos de cerâmica; porcelanatos e afins   Sinônimo
+8202-05,Supervisor de produção na fabricação de produtos de cerâmica; porcelanatos e afins,Sinônimo
 8202-10,Supervisor de produção na fabricação de produtos de vidro,Sinônimo
 7101-20,Supervisor de produção na mineração,Ocupação
 8101-10,Supervisor de produção química,Sinônimo
@@ -8948,7 +8948,7 @@ codigo,termo,tipo
 8601-10,Supervisor técnico de aplicação e distribuição de gás,Sinônimo
 8601-15,Supervisor técnico de manutenção elétrica (distribuição de energia),Sinônimo
 8601-10,Supervisor técnico de operação de água e esgoto,Sinônimo
-8601-15,Supervisor técnico de operação de sistema de geração; transmissão e distribuição de energia elétrica   Sinônimo
+8601-15,Supervisor técnico de operação de sistema de geração; transmissão e distribuição de energia elétrica,Sinônimo
 3732-20,Supervisor técnico operacional de sistemas de televisão e produtoras de vídeo,Ocupação
 4101,SUPERVISORES ADMINISTRATIVOS,Família
 7605,SUPERVISORES DA CONFECÇÃO DE ARTEFATOS DE TECIDOS; COUROS E AFINS,Família
@@ -8979,9 +8979,9 @@ codigo,termo,tipo
 5201,SUPERVISORES DE VENDAS E DE PRESTAÇÃO DE SERVIÇOS,Família
 7502,SUPERVISORES DE VIDRARIA; CERÂMICA E AFINS,Família
 5103,SUPERVISORES DOS SERVIÇOS DE PROTEÇÃO; SEGURANÇA E OUTROS,Família
-5101,SUPERVISORES DOS SERVIÇOS DE TRANSPORTE; TURISMO; HOTELARIA E ADMINISTRAÇÃO DE EDIFÍCIOS Família
+5101,SUPERVISORES DOS SERVIÇOS DE TRANSPORTE; TURISMO; HOTELARIA E ADMINISTRAÇÃO DE EDIFÍCIOS,Família
 7701,SUPERVISORES EM INDÚSTRIA DE MADEIRA; MOBILIÁRIO E DA CARPINTARIA VEICULAR,Família
-9101,SUPERVISORES EM SERVIÇOS DE REPARAÇÃO E MANUTENÇÃO DE MÁQUINAS E EQUIPAMENTOS INDUSTRIAIS;
+9101,SUPERVISORES EM SERVIÇOS DE REPARAÇÃO E MANUTENÇÃO DE MÁQUINAS E EQUIPAMENTOS INDUSTRIAIS;,Família
 9102,SUPERVISORES EM SERVIÇOS DE REPARAÇÃO E MANUTENÇÃO VEICULAR,Família
 6301,SUPERVISORES NA ÁREA FLORESTAL E AQÜICULTURA,Família
 7604,SUPERVISORES NA CONFECÇÃO DE CALÇADOS,Família
@@ -9103,7 +9103,7 @@ codigo,termo,tipo
 3712-10,Técnico de arquivo (museologia),Sinônimo
 3713-10,Técnico de artes gráficas,Sinônimo
 3731-05,Técnico de áudio (rádio),Sinônimo
-3115-15,Técnico de avaliação de capacidade de estação de tratamento e distribuição de água e esgoto   Sinônimo
+3115-15,Técnico de avaliação de capacidade de estação de tratamento e distribuição de água e esgoto,Sinônimo
 3132-15,Técnico de balanças (eletrônicas),Sinônimo
 3252-05,Técnico de bebidas,Sinônimo
 3711-10,Técnico de biblioteca,Sinônimo
@@ -9164,7 +9164,7 @@ codigo,termo,tipo
 3132-15,Técnico de indústria eletrônica,Sinônimo
 3111-05,Técnico de indústria química,Sinônimo
 3146-05,Técnico de inspeção da indústria metalúrgica,Sinônimo
-3122-05,Técnico de inspeção e especificação de materiais e equipamentos de construção de estradas   Sinônimo
+3122-05,Técnico de inspeção e especificação de materiais e equipamentos de construção de estradas,Sinônimo
 3122-10,Técnico de inspeção e especificação de materiais e equipamentos de obras de saneamento,Sinônimo
 3111-05,Técnico de laboratório - exclusive análises clínicas,Sinônimo
 3111-05,Técnico de laboratório de água e esgotos,Sinônimo
@@ -9191,7 +9191,7 @@ codigo,termo,tipo
 3131-20,Técnico de manutenção elétrica,Ocupação
 3131-25,Técnico de manutenção elétrica de máquina,Ocupação
 3132-05,Técnico de manutenção eletrônica,Ocupação
-3132-10,Técnico de manutenção eletrônica (circuitos de máquinas com comando numérico)   Ocupação
+3132-10,Técnico de manutenção eletrônica (circuitos de máquinas com comando numérico),Ocupação
 3131-20,Técnico de manutenção industrial,Sinônimo
 9543-05,Técnico de máquina autenticadora,Sinônimo
 9543-05,Técnico de máquina de escrever eletrônica,Sinônimo
@@ -9292,7 +9292,7 @@ codigo,termo,tipo
 2544-15,Técnico de tributos estadual,Ocupação
 2544-20,Técnico de tributos municipal,Ocupação
 3146-10,Técnico de tubulação (caldeiraria),Sinônimo
-3115-15,Técnico de utilidade (produção e distribuição de vapor; gases; óleos; combustíveis; energia)   Ocupação
+3115-15,Técnico de utilidade (produção e distribuição de vapor; gases; óleos; combustíveis; energia),Ocupação
 3541-35,Técnico de vendas,Ocupação
 3131-30,Técnico eletricista,Ocupação
 3132-15,Técnico eletrônico,Ocupação
@@ -9393,7 +9393,7 @@ codigo,termo,tipo
 9141-05,Técnico em manutenção de aeronaves,Sinônimo
 9151-15,Técnico em manutenção de balanças,Ocupação
 3132-20,Técnico em manutenção de equipamentos de informática,Ocupação
-9153-05,Técnico em manutenção de equipamentos e instrumentos médico-hospitalares   Ocupação
+9153-05,Técnico em manutenção de equipamentos e instrumentos médico-hospitalares,Ocupação
 9151-05,Técnico em manutenção de instrumentos de medição e precisão,Ocupação
 3144-10,Técnico em manutenção de máquinas,Ocupação
 9141-10,Técnico em manutenção de sistema hidráulico de aeronaves,Sinônimo
@@ -9423,7 +9423,7 @@ codigo,termo,tipo
 3252-10,Técnico em nutrição,Sinônimo
 3252-10,Técnico em nutrição e dietética,Ocupação
 3732-10,Técnico em operação de equipamento de exibição de televisão,Ocupação
-3732-05,Técnico em operação de equipamentos de produção para televisão e produtoras de vídeo   Ocupação
+3732-05,Técnico em operação de equipamentos de produção para televisão e produtoras de vídeo,Ocupação
 3732-15,Técnico em operação de equipamentos de transmissão/recepção de televisão,Ocupação
 3223-05,Técnico em óptica e optometria,Ocupação
 3213-15,Técnico em ostras,Sinônimo
@@ -9533,7 +9533,7 @@ codigo,termo,tipo
 3224,TÉCNICOS DE ODONTOLOGIA,Família
 3731,TÉCNICOS DE OPERAÇÃO DE EMISSORAS DE RÁDIO,Família
 3911,TÉCNICOS DE PLANEJAMENTO E CONTROLE DE PRODUÇÃO,Família
-3112,TÉCNICOS DE PRODUÇÃO DE INDÚSTRIAS QUÍMICAS; PETROQUÍMICAS; REFINO DE PETRÓLEO; GÁS E AFINSFamília
+3112,TÉCNICOS DE PRODUÇÃO DE INDÚSTRIAS QUÍMICAS; PETROQUÍMICAS; REFINO DE PETRÓLEO; GÁS E AFINS,Família
 3517,TÉCNICOS DE SEGUROS E AFINS,Família
 3192,TÉCNICOS DO MOBILIÁRIO E AFINS,Família
 3191,TÉCNICOS DO VESTUÁRIO,Família
@@ -9557,7 +9557,7 @@ codigo,termo,tipo
 3161,TÉCNICOS EM GEOLOGIA,Família
 3123,TÉCNICOS EM GEOMÁTICA,Família
 9153,TÉCNICOS EM MANUTENÇÃO E REPARAÇÃO DE EQUIPAMENTOS BIOMÉDICOS,Família
-9151,TÉCNICOS EM MANUTENÇÃO E REPARAÇÃO DE INSTRUMENTOS DE MEDIÇÃO E PRECISÃO   Família
+9151,TÉCNICOS EM MANUTENÇÃO E REPARAÇÃO DE INSTRUMENTOS DE MEDIÇÃO E PRECISÃO,Família
 3113,TÉCNICOS EM MATERIAIS; PRODUTOS CERÂMICOS E VIDROS,Família
 3143,TÉCNICOS EM MECÂNICA VEICULAR,Família
 3001,TÉCNICOS EM MECATRÔNICA,Família
@@ -9586,7 +9586,7 @@ codigo,termo,tipo
 3413,TÉCNICOS MARÍTIMOS E FLUVIÁRIOS DE MÁQUINAS,Família
 3412,TÉCNICOS MARÍTIMOS; FLUVIÁRIOS E PESCADORES DE CONVÉS,Família
 3142,TÉCNICOS MECÂNICOS (FERRAMENTAS),Família
-3141,TÉCNICOS MECÂNICOS NA FABRICAÇÃO E MONTAGEM DE MÁQUINAS; SISTEMAS E INSTRUMENTOS   Família
+3141,TÉCNICOS MECÂNICOS NA FABRICAÇÃO E MONTAGEM DE MÁQUINAS; SISTEMAS E INSTRUMENTOS,Família
 3144,TÉCNICOS MECÂNICOS NA MANUTENÇÃO DE MÁQUINAS; SISTEMAS E INSTRUMENTOS,Família
 3111,TÉCNICOS QUÍMICOS,Família
 3116,TÉCNICOS TÊXTEIS,Família
@@ -9600,7 +9600,7 @@ codigo,termo,tipo
 2142-80,Tecnólogo em construção civil,Ocupação
 2142-80,Tecnólogo em construção civil-modalidade edifícios,Sinônimo
 2142-80,Tecnólogo em construção civil-modalidade hidráulica,Sinônimo
-2142-80,Tecnólogo em construção civil-modalidade movimento de terra e pavimentação   Sinônimo
+2142-80,Tecnólogo em construção civil-modalidade movimento de terra e pavimentação,Sinônimo
 2142-80,Tecnólogo em construção de edifícios,Sinônimo
 2142-80,Tecnólogo em controle de obras,Sinônimo
 3221-30,Tecnólogo em cosmetologia e estética,Sinônimo
@@ -9681,7 +9681,7 @@ codigo,termo,tipo
 2149-30,Tecnólogo gráfico,Sinônimo
 2146-15,Tecnólogo metalurgista,Sinônimo
 3241-25,Tecnólogo oftálmico,Ocupação
-3241,TECNÓLOGOS E TÉCNICOS EM MÉTODOS DE DIAGNÓSTICOS E TERAPÊUTICA   Família
+3241,TECNÓLOGOS E TÉCNICOS EM MÉTODOS DE DIAGNÓSTICOS E TERAPÊUTICA,Família
 3221,TECNÓLOGOS E TÉCNICOS EM TERAPIAS COMPLEMENTARES E ESTÉTICAS,Família
 2625-05,Teleator,Sinônimo
 2625-05,Teleatriz,Sinônimo
@@ -9851,7 +9851,7 @@ codigo,termo,tipo
 6323-05,Trabalhador da exploração de andiroba,Ocupação
 6325-15,Trabalhador da exploração de angico,Sinônimo
 6325-05,Trabalhador da exploração de aroeira,Sinônimo
-6325-05,Trabalhador da exploração de árvores e arbustos produtores de substâncias aromát.; Medic. E tóxicas   Ocupação
+6325-05,Trabalhador da exploração de árvores e arbustos produtores de substâncias aromát.; Medic. E tóxicas,Ocupação
 6323-10,Trabalhador da exploração de babaçu,Ocupação
 6323-15,Trabalhador da exploração de bacaba,Ocupação
 6325-05,Trabalhador da exploração de bacupari,Sinônimo
@@ -9876,7 +9876,7 @@ codigo,termo,tipo
 6325-10,Trabalhador da exploração de cipó-seda,Sinônimo
 6325-10,Trabalhador da exploração de cipó-sume,Sinônimo
 6325-10,Trabalhador da exploração de cipó-tuína,Sinônimo
-6325-10,Trabalhador da exploração de cipós produtores de substâncias aromáticas; medicinais e tóxicas   Ocupação
+6325-10,Trabalhador da exploração de cipós produtores de substâncias aromáticas; medicinais e tóxicas,Ocupação
 6323-30,Trabalhador da exploração de coco-da-praia,Ocupação
 6323-35,Trabalhador da exploração de copaíba,Ocupação
 6322-10,Trabalhador da exploração de coquirana,Sinônimo
@@ -9919,7 +9919,7 @@ codigo,termo,tipo
 6325-05,Trabalhador da exploração de preciosa,Sinônimo
 6324-20,Trabalhador da exploração de pupunha,Ocupação
 6325-05,Trabalhador da exploração de quina,Sinônimo
-6325-20,Trabalhador da exploração de raízes produtoras de substâncias aromáticas; medicinais e tóxicas   Ocupação
+6325-20,Trabalhador da exploração de raízes produtoras de substâncias aromáticas; medicinais e tóxicas,Ocupação
 6322-15,Trabalhador da exploração de resinas,Ocupação
 6325-05,Trabalhador da exploração de sacaca,Sinônimo
 6325-05,Trabalhador da exploração de sangue de grado,Sinônimo
@@ -10017,9 +10017,9 @@ codigo,termo,tipo
 6223-10,Trabalhador na olericultura (legumes),Ocupação
 6223-15,Trabalhador na olericultura (raízes; bulbos e tubérculos),Ocupação
 6223-20,Trabalhador na olericultura (talos; folhas e flores),Ocupação
-6430-05,Trabalhador na operação de sistema de irrigação localizada (microaspersão e gotejamento)   Ocupação
+6430-05,Trabalhador na operação de sistema de irrigação localizada (microaspersão e gotejamento),Ocupação
 6430-10,Trabalhador na operação de sistema de irrigação por aspersão (pivô central),Ocupação
-6430-20,Trabalhador na operação de sistemas de irrigação e aspersão (alto propelido)   Ocupação
+6430-20,Trabalhador na operação de sistemas de irrigação e aspersão (alto propelido),Ocupação
 6430-20,Trabalhador na operação de sistemas de irrigação e aspersão (canhão),Sinônimo
 6430-25,Trabalhador na operação de sistemas de irrigação por superfície e drenagem,Ocupação
 6310-05,Trabalhador na pesca de crustáceo,Sinônimo
@@ -10060,7 +10060,7 @@ codigo,termo,tipo
 8332,TRABALHADORES ARTESANAIS DE PRODUTOS DE PAPEL E PAPELÃO,Família
 8481,TRABALHADORES ARTESANAIS NA CONSERVAÇÃO DE ALIMENTOS,Família
 8486,TRABALHADORES ARTESANAIS NA INDÚSTRIA DO FUMO,Família
-8482,TRABALHADORES ARTESANAIS NA PASTEURIZAÇÃO DO LEITE E NA FABRICAÇÃO DE LATICÍNIOS E AFINS   Família
+8482,TRABALHADORES ARTESANAIS NA PASTEURIZAÇÃO DO LEITE E NA FABRICAÇÃO DE LATICÍNIOS E AFINS,Família
 5166,TRABALHADORES AUXILIARES DOS SERVIÇOS FUNERÁRIOS,Família
 5135,TRABALHADORES AUXILIARES NOS SERVIÇOS DE ALIMENTAÇÃO,Família
 7611,TRABALHADORES DA CLASSIFICAÇÃO DE FIBRAS TÊXTEIS E LAVAGEM DE LÃ,Família
@@ -10074,7 +10074,7 @@ codigo,termo,tipo
 6430,TRABALHADORES DA IRRIGAÇÃO E DRENAGEM,Família
 6410,TRABALHADORES DA MECANIZAÇÃO AGRÍCOLA,Família
 6420,TRABALHADORES DA MECANIZAÇÃO FLORESTAL,Família
-7233,TRABALHADORES DA PINTURA DE EQUIPAMENTOS; VEÍCULOS; ESTRUTURAS METÁLICAS E DE COMPÓSITOS
+7233,TRABALHADORES DA PINTURA DE EQUIPAMENTOS; VEÍCULOS; ESTRUTURAS METÁLICAS E DE COMPÓSITOS,Família
 7661,TRABALHADORES DA PRÉ-IMPRESSÃO GRÁFICA,Família
 7641,TRABALHADORES DA PREPARAÇÃO DA CONFECÇÃO DE CALÇADOS,Família
 7631,TRABALHADORES DA PREPARAÇÃO DA CONFECÇÃO DE ROUPAS,Família
@@ -10086,7 +10086,7 @@ codigo,termo,tipo
 6220,TRABALHADORES DE APOIO À AGRICULTURA,Família
 6314,TRABALHADORES DE APOIO À PESCA,Família
 7751,TRABALHADORES DE ARTE E DO ACABAMENTO EM MADEIRA DO MOBILIÁRIO,Família
-5153,TRABALHADORES DE ATENÇÃO; DEFESA E PROTEÇÃO A PESSOAS EM SITUAÇÃO DE RISCO E ADOLESCENTES
+5153,TRABALHADORES DE ATENÇÃO; DEFESA E PROTEÇÃO A PESSOAS EM SITUAÇÃO DE RISCO E ADOLESCENTES,Família
 7121,TRABALHADORES DE BENEFICIAMENTO DE MINÉRIOS,Família
 7122,TRABALHADORES DE BENEFICIAMENTO DE PEDRAS ORNAMENTAIS,Família
 7244,TRABALHADORES DE CALDEIRARIA E SERRALHERIA,Família
@@ -10101,13 +10101,13 @@ codigo,termo,tipo
 7831,TRABALHADORES DE MANOBRAS DE TRANSPORTES SOBRE TRILHOS,Família
 9192,TRABALHADORES DE MANUTENÇÃO DE ROÇADEIRAS; MOTOSERRAS E SIMILARES,Família
 7223,TRABALHADORES DE MOLDAGEM DE METAIS E DE LIGAS METÁLICAS,Família
-7155,TRABALHADORES DE MONTAGEM DE ESTRUTURAS DE MADEIRA; METAL E COMPÓSITOS EM OBRAS CIVIS Família
+7155,TRABALHADORES DE MONTAGEM DE ESTRUTURAS DE MADEIRA; METAL E COMPÓSITOS EM OBRAS CIVIS,Família
 5111,TRABALHADORES DE SEGURANÇA E ATENDIMENTO AOS USUÁRIOS NOS TRANSPORTES,Família
-5193,TRABALHADORES DE SERVIÇOS VETERINÁRIOS; DE HIGIENE E ESTÉTICA DE ANIMAIS DOMÉSTICOS    Família
+5193,TRABALHADORES DE SERVIÇOS VETERINÁRIOS; DE HIGIENE E ESTÉTICA DE ANIMAIS DOMÉSTICOS,Família
 7243,TRABALHADORES DE SOLDAGEM E CORTE DE LIGAS METÁLICAS,Família
 7681,TRABALHADORES DE TECELAGEM MANUAL; TRICÔ; CROCHÊ; RENDAS E AFINS,Família
 7242,TRABALHADORES DE TRAÇAGEM E MONTAGEM DE ESTRUTURAS METÁLICAS E DE COMPÓSITOS,Família
-7232,TRABALHADORES DE TRATAMENTO DE SUPERFÍCIES DE METAIS E DE COMPÓSITOS (TERMOQUÍMICOS)   Família
+7232,TRABALHADORES DE TRATAMENTO DE SUPERFÍCIES DE METAIS E DE COMPÓSITOS (TERMOQUÍMICOS),Família
 7721,TRABALHADORES DE TRATAMENTO E PREPARAÇÃO DA MADEIRA,Família
 7231,TRABALHADORES DE TRATAMENTO TÉRMICO DE METAIS,Família
 7224,TRABALHADORES DE TREFILAÇÃO E ESTIRAMENTO DE METAIS PUROS E LIGAS METÁLICAS,Família
@@ -10131,12 +10131,12 @@ codigo,termo,tipo
 8415,TRABALHADORES NA PASTEURIZAÇÃO DO LEITE E NA FABRICAÇÃO DE LATICÍNIOS E AFINS,Família
 6231,TRABALHADORES NA PECUÁRIA DE ANIMAIS DE GRANDE PORTE,Família
 6232,TRABALHADORES NA PECUÁRIA DE ANIMAIS DE MÉDIO PORTE,Família
-5134,TRABALHADORES NO ATENDIMENTO EM ESTABELECIMENTOS DE SERVIÇOS DE ALIMENTAÇÃO; BEBIDAS E Família
+5134,TRABALHADORES NO ATENDIMENTO EM ESTABELECIMENTOS DE SERVIÇOS DE ALIMENTAÇÃO; BEBIDAS E,Família
 8412,TRABALHADORES NO BENEFICIAMENTO DO SAL,Família
 5143,TRABALHADORES NOS SERVIÇOS DE MANUTENÇÃO DE EDIFICAÇÕES,Família
 5141,TRABALHADORES NOS SERVIÇOS DE ADMINISTRAÇÃO DE EDIFÍCIOS,Família
-4152,TRABALHADORES NOS SERVIÇOS DE CLASSIFICAÇÃO E ENTREGAS DE CORRESPONDÊNCIAS; ENCOMENDAS
-5142,TRABALHADORES NOS SERVIÇOS DE COLETA DE RESÍDUOS; DE LIMPEZA E CONSERVAÇÃO DE ÁREAS PÚBLICAS
+4152,TRABALHADORES NOS SERVIÇOS DE CLASSIFICAÇÃO E ENTREGAS DE CORRESPONDÊNCIAS; ENCOMENDAS,Família
+5142,TRABALHADORES NOS SERVIÇOS DE COLETA DE RESÍDUOS; DE LIMPEZA E CONSERVAÇÃO DE ÁREAS PÚBLICAS,Família
 5161,TRABALHADORES NOS SERVIÇOS DE EMBELEZAMENTO E HIGIENE,Família
 9922,TRABALHADORES OPERACIONAIS DE CONSERVAÇÃO DE VIAS PERMANENTES (EXCETO TRILHOS),Família
 7650,TRABALHADORES POLIVALENTES DA CONFECÇÃO DE ARTEFATOS DE TECIDOS E COUROS,Família
